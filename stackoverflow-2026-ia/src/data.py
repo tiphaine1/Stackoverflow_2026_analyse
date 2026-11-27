@@ -17,7 +17,7 @@ SCHEMA_FILE = DATA_DIR / "survey_results_schema_2026.csv"
 
 @st.cache_data
 def load_survey_data():
-    """Charge les données du sondage Stack Overflow 2026 et le dictionnaire des variables"""
+#Charge les données du sondage Stack Overflow 2026 et le dictionnaire des variables
 
     if not SURVEY_FILE.exists():
         raise FileNotFoundError(
