@@ -24,7 +24,7 @@ pytest
 |---|---|---|---|
 | 1 | Utilisation de l'IA | axe-1 | |
 | 2 | Outils d'IA | axe-2 | |
-| 3 | Confiance | axe-3 | Ayoub |
+| 3 | Confiance | axe-3 | Ayoub CHABBA |
 | 4 | Utilité perçue et freins | axe-4 | |
 | 5 | Profil des utilisateurs | axe-5 | |
 
